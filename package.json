@@ -1,7 +1,7 @@
 {
-  "name": "212-script",
+  "name": "212-trading-export-script",
   "version": "1.0.0",
-  "description": "",
+  "description": "Script to format CSV 212 trading data to StockEvents Android App data structure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
