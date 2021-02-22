@@ -1,0 +1,19 @@
+{
+  "name": "212-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Jamie Toloui",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "csvtojson": "^2.0.10",
+    "json-2-csv": "^3.10.2",
+    "prompts": "^2.4.0"
+  }
+}
