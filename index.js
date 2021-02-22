@@ -4,8 +4,6 @@ const prompts = require("prompts");
 const csv = require("csvtojson");
 const chalk = require("chalk");
 
-const data = require("./data.json");
-
 const date = new Date();
 
 const symbolAndMarket = {
