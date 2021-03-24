@@ -113,7 +113,7 @@ function outPutCsv(json) {
 			questions.push({
 				type: "select",
 				name: "fileName",
-				message: "Pick a color",
+				message: "Select your CSV",
 				choices,
 				initial: 0,
 			});
